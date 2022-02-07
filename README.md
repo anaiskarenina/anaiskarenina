@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anaiskarenina
-- 👀 I’m interested in have a career in programming
-- 🌱 I’m currently learning python
+- 👀 I want to be a data scientist
+- 🌱 I’m currently learning python and pandas
 - 💞️ I’m looking to collaborate on new projects focusing on social themes
 
 <!---
