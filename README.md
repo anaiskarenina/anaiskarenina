@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anaiskarenina
+- 👋 Hi, I’m Eliana Gimenez
 - 👀 I want to be a data scientist
 - 🌱 I’m currently learning python and pandas
 - 💞️ I’m looking to collaborate on new projects focusing on social themes
