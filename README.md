@@ -6,7 +6,7 @@ I studied journalism because I wanted to tell real stories. But I've decided to 
 
 So I did the Complete Python Bootcamp From Zero to Hero in Python (Udemy) and now I’m learning how to make the most of pandas, matplotlib and other libraries by doing new projects that interest me.
 
-I'm currently looking for my first job in the data analysis world where I hope to keep learning and developing my skills.
+I'm currently working as a BI Developer and I'm learning how to develop machine learning models through Python. 
 
 If you want to connect with me you can send me an email to elianagimenez9@gmail.com
 
